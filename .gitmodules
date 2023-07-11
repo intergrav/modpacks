@@ -1,0 +1,18 @@
+[submodule "adrenaline"]
+	path = adrenaline
+	url = https://github.com/intergrav/adrenaline
+[submodule "additive"]
+	path = additive
+	url = https://github.com/intergrav/additive
+[submodule "deckcraft"]
+	path = deckcraft
+	url = https://github.com/intergrav/deckcraft
+[submodule "adrenaserver"]
+	path = adrenaserver
+	url = https://github.com/intergrav/adrenaserver
+[submodule "hammer"]
+	path = hammer
+	url = https://github.com/intergrav/hammer
+[submodule "vulkadrenaline"]
+	path = vulkadrenaline
+	url = https://github.com/intergrav/vulkadrenaline
